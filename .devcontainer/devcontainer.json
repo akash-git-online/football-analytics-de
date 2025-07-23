@@ -1,0 +1,6 @@
+{
+    "name": "football-analytics",
+    "dockerFile": "Dockerfile",
+    "settings": {},
+    "extensions": []
+}
